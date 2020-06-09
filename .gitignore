@@ -3,3 +3,4 @@ wout/*
 data/*
 *.zip
 .ipynb_checkpoints
+*.pyc
